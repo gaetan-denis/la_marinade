@@ -1,0 +1,5 @@
+
+2024-08-18 21:36:52 - Erreur de connexion à la base de données: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for localhot failed: H�te inconnu. 
+2024-08-18 21:37:00 - Erreur de connexion à la base de données: SQLSTATE[HY000] [1049] Base 'la_marine' inconnue
+2024-08-18 21:37:17 - Erreur de connexion à la base de données: SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: 'rot'@'@localhost' (mot de passe: NON)
+2024-08-18 21:37:28 - Erreur de connexion à la base de données: SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: 'root'@'@localhost' (mot de passe: OUI)
